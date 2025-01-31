@@ -1,0 +1,29 @@
+{
+  "offenders": [
+    {
+      "name": "ACOSTA, ALDO",
+      "age": 24,
+      "address": "2449 DOREEN ST, GRAND PRAIRIE, TX 75050"
+    },
+    {
+      "name": "ALMARAZ, FRANCISCO",
+      "age": 37,
+      "address": "318 NW 15TH ST, GRAND PRAIRIE, TX 75050"
+    },
+    {
+      "name": "BIBLES, MARCQUEE RAY",
+      "age": 69,
+      "address": "820 SMALL STREET, GRAND PRAIRIE, TX 75050"
+    },
+    {
+      "name": "BLACKMON, DEMARCUS",
+      "age": 27,
+      "address": "UNKNOWN(GRAND PRAIRIE TX 75050 TARRANT), GRAND PRAIRIE, TX 75050"
+    },
+    {
+      "name": "BLACKSHERE, DUSTIN LEE",
+      "age": 34,
+      "address": "1410 NORTH STATE HIGHWAY 161 RM 155, GRAND PRAIRIE, TX 75050"
+    }
+  ]
+}

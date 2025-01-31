@@ -1,0 +1,35 @@
+{
+  "offenders": [
+    {
+      "name": "ALLEN, HAROLD LEE JR",
+      "age": 66,
+      "aliases": "",
+      "address": "1957 WASHINGTON LN, WACO, TX 76708"
+    },
+    {
+      "name": "BARTENSTEIN, JACK AUTHOR JR",
+      "age": 56,
+      "aliases": "",
+      "address": "2225 LYLE AVE, WACO, TX 76708"
+    },
+    {
+      "name": "BARTLEY, DONALD LEE JR",
+      "age": 47,
+      "aliases": "",
+      "address": "4001 COBBS DR, WACO, TX 76708"
+    },
+    {
+      "name": "BASHORE, STEPHEN EDWARD",
+      "age": 60,
+      "aliases": "",
+      "address": "3101 MCKENZIE AVE, WACO, TX 76708"
+    },
+    {
+      "name": "BEEMAN, CHARLES GAUDENCIO",
+      "age": 66,
+      "aliases": "",
+      "address": "2505 N 31ST ST, WACO, TX 76708"
+    }
+  ]
+}
+

@@ -1,0 +1,34 @@
+{
+  "offenders": [
+    {
+      "name": "ARNOLD, DARRELL W",
+      "age": 50,
+      "aliases": [ "ALEX, DARREL" ],
+      "address": "2312 ELBE AVE, HAMILTON, OH 45015"
+    },
+    {
+      "name": "BALLINGER, JESSE L",
+      "age": 40,
+      "aliases": [ "BALLINGER, JESSE", "BALLINGER, JESSE LEE HERBERT" ],
+      "address": "1168 ST CLAIR AVE, HAMILTON, OH 45015"
+    },
+    {
+      "name": "BARNES, CALVIN",
+      "age": 37,
+      "aliases": [],
+      "address": "793 FOREST AVE, HAMILTON, OH 45015"
+    },
+    {
+      "name": "BOWLIN, JEREMY RYAN",
+      "age": 45,
+      "aliases": [],
+      "address": "1115 HAYES AVE., HAMILTON, OH 45015"
+    },
+    {
+      "name": "BRIDGES, KEVIN ROBERT",
+      "age": 39,
+      "aliases": [ "BRIDGES, KEVIN R" ],
+      "address": "503 WILLIAMS AVE, HAMILTON, OH 45015"
+    }
+  ]
+}
